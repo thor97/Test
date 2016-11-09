@@ -10,7 +10,7 @@
 #DL Strength, Run Stop, Pass Rush
 #LB Tackling, Run Stop, Pass Coverage
 Thor Ritchie,THO
-QB,Steve McNair,3,2013,900,900,900,900,900,900,0.1,100
+QB,Steve McNair,3,2013,900,900,100,900,900,900,0.1,100
 QB,Ryan Mallett,28,2011,73,63,85,97,79,20,0.8,2
 QB,Josh Johnson,30,2008,73,65,92,87,73,63,0.6,1
 RB,Trent Richardson,25,2012,82,74,95,80,87,62,0.7,1
